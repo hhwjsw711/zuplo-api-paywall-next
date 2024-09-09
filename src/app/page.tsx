@@ -63,7 +63,7 @@ export default function Home() {
               <a
                 className="text-pink-500"
                 target="_blank"
-                href="https://zuplo-openai-paywall-2-main-27cc248.d2.zuplo.dev/docs"
+                href="https://money-api-zup-main-93fbea4.d2.zuplo.dev/docs"
               >
                 here
               </a>
@@ -83,8 +83,8 @@ export default function Home() {
                   dangerouslySetInnerHTML={{
                     __html: `
               <stripe-pricing-table
-              pricing-table-id="prctbl_1OV1E6DgGgjrt3v8rmES03XD"
-              publishable-key="pk_test_51OSryODgGgjrt3v8yNpGGFJg7fHlrErZycha7aTeNlYt6CvmksuL3vC57lWqOt3X8CrQtVWAZP7y3F4vLaaI1clg00HHbPeE54"
+              pricing-table-id="prctbl_1Px6TKGNVNZoGapRqYOSt3ht"
+              publishable-key="pk_test_51Px6M7GNVNZoGapRSUNkdl2eSP1xu3UGii557CUIhf2Z75IjwmYoENl8KiAZT6L0XAqPcZPuv52cEa2bMhEY3Ddq00SCJVtgSl"
             ></stripe-pricing-table>`,
                   }}
                 ></div>
