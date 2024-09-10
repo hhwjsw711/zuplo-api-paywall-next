@@ -63,7 +63,7 @@ export default function Home() {
               <a
                 className="text-pink-500"
                 target="_blank"
-                href={process.env.NEXT_PUBLIC_ZUPLO_DOC_URL}
+                href={process.env.NEXT_PUBLIC_ZUPLO_DOCS_URL}
               >
                 here
               </a>
