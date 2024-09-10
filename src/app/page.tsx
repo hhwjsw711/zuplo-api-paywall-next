@@ -63,7 +63,7 @@ export default function Home() {
               <a
                 className="text-pink-500"
                 target="_blank"
-                href={process.env.NEXT_PUBLIC_ZUPLO_DOCS_URL}
+                href="https://money-api-zup-main-93fbea4.d2.zuplo.dev/docs"
               >
                 here
               </a>
