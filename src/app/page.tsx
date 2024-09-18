@@ -83,8 +83,8 @@ export default function Home() {
                   dangerouslySetInnerHTML={{
                     __html: `
               <stripe-pricing-table
-              pricing-table-id="prctbl_1Px6TKGNVNZoGapRqYOSt3ht"
-              publishable-key="pk_test_51Px6M7GNVNZoGapRSUNkdl2eSP1xu3UGii557CUIhf2Z75IjwmYoENl8KiAZT6L0XAqPcZPuv52cEa2bMhEY3Ddq00SCJVtgSl"
+              pricing-table-id="prctbl_1PyT77HEAhCT4x6gq3Q1M3xz"
+              publishable-key="pk_live_51PV8r6HEAhCT4x6gr6VtE1isUatujBBwWPbuPd9Ud9Dc2tUj0CIT8BDIHFGNfJePtK4jyFgTv6I7hcUwqIdMW3kd00WDpol12G"
             ></stripe-pricing-table>`,
                   }}
                 ></div>
